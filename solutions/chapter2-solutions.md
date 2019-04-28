@@ -158,13 +158,13 @@ unsigned setbits(unsigned x, int p, int n, unsigned y){
 ```
 问题描述如下所示：
 
-&emsp;&emsp;xxx...xnn..nnnx...xxx   x
-&emsp;&emsp;yyy........yyyyn..nnn   y
+&emsp;&emsp;xxx...xnn..nnnx...xxx   x 
+&emsp;&emsp;yyy........yyyyn..nnn   y 
 
 需要将x中从第p为开始的n位置0，把y中最右边n位移动与x的对应位对齐，将y的其他位置0，然后对结果值进行OR操作。即：
 
-&emsp;&emsp;xxx...x00..000x...xxx   x
-&emsp;&emsp;000...0nn..nnn0...000   y
+&emsp;&emsp;xxx...x00..000x...xxx   x 
+&emsp;&emsp;000...0nn..nnn0...000   y 
 
 为了对x的n个位置0，需要生成个屏蔽码与x进行AND操作。该屏蔽码其他位是1，与x的n个位对应的位是0。
 

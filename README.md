@@ -5,3 +5,6 @@
 * 第一章 导学
   * [读书笔记](https://github.com/1326670425/TCPL/blob/master/notes/chapter1-notes.md)
   * [习题解答](https://github.com/1326670425/TCPL/blob/master/solutions/chapter1-solutions.md)
+* 第二章 类型、运算符与表达式
+  * [读书笔记](https://github.com/1326670425/TCPL/blob/master/notes/chapter2-notes.md)
+  * [习题解答](https://github.com/1326670425/TCPL/blob/master/solutions/chapter2-solutions.md)

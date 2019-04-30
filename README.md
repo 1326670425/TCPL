@@ -11,3 +11,6 @@
 * 第三章 控制流  
   * [读书笔记](https://github.com/1326670425/TCPL/blob/master/notes/chapter3-notes.md)  
   * [习题解答](https://github.com/1326670425/TCPL/blob/master/solutions/chapter3-solutions.md)  
+* 第四章 函数与程序结构  
+  * [读书笔记](https://github.com/1326670425/TCPL/blob/master/notes/chapter4-notes.md)  
+  * [习题解答](https://github.com/1326670425/TCPL/blob/master/solutions/chapter4-solutions.md)  

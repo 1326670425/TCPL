@@ -22,3 +22,8 @@
   * [读书笔记](https://github.com/1326670425/TCPL/blob/master/notes/chapter5-notes.md)  
   * [习题解答](https://github.com/1326670425/TCPL/blob/master/solutions/chapter5-solutions.md)  
 
+* 第六章 结构  
+  * [读书笔记](https://github.com/1326670425/TCPL/blob/master/notes/chapter6-notes.md)  
+  * [习题解答](https://github.com/1326670425/TCPL/blob/master/solutions/chapter6-solutions.md)  
+
+

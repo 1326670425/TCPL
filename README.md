@@ -30,4 +30,8 @@
   * [读书笔记](https://github.com/1326670425/TCPL/blob/master/notes/chapter7-notes.md)  
   * [习题解答](https://github.com/1326670425/TCPL/blob/master/solutions/chapter7-solutions.md)  
 
+* 第八章 UNIX系统接口  
+  * [读书笔记](https://github.com/1326670425/TCPL/blob/master/notes/chapter8-notes.md)  
+  * [习题解答](https://github.com/1326670425/TCPL/blob/master/solutions/chapter8-solutions.md)  
+
 

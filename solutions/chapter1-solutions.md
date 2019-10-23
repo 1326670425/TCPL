@@ -319,7 +319,7 @@ int main(){
     for(i = MAXHIST; i > 0; --i){
         for(j = 1; j < MAXWORD; ++j){
             // 逐行打印，达到长度的，打印 * ，不够的打印空格补齐
-            if(wl[j] = MAXHIST / maxvalue >= i)
+            if(wl[j] * MAXHIST / maxvalue >= i)
                 printf(" * ");
             else
                 printf("   ");
